@@ -1,0 +1,37 @@
+# Actions
+
+**Construct Building** (Economy - Crafting)
+Cost: Varies per Structure
+
+**Establish Trade Route** (Economy - Trade)
+Cost: 2 Lumber, 1 Influence
+
+**Host Festival** (Culture - Arts)
+   - Cost: 2 Food, 1 Influence
+
+**Fortify Settlement** (Defense - Fortifications)
+Cost: 2 Stone, 1 Ore, 1 Influence
+
+**Train Military Units** (Defense - Training)
+Cost: 1 Ore, 2 Food
+
+**Conduct Diplomatic Mission** (Culture - Diplomacy)
+Cost: 2 Influence
+
+**Launch Espionage Operation** (Loyalty - Espionage)
+Cost: 1 Influence, 1 Ore
+
+**Quell Unrest** (Loyalty - Leadership)
+Cost: 1 Food, 2 Influence
+
+**Improve Image** (Loyalty - Public Relations)
+Cost: 2 Influence
+
+**Establish Resource Site** (Economy - Ag Management)
+Cost: 2 Lumber, 1 Stone, 1 Ore
+
+**Found Settlement** (Economy - Crafting)
+Cost: 3 Lumber, 2 Stone, 2 Food, 2 Influence
+
+**Claim Territory** (Defense - Warfare or Culture - Diplomacy)
+Cost: 2 Influence, 1 Food (if diplomatic), or 1 Ore (if military)
